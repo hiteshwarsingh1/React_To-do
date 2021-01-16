@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/React_To-do/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/React_To-do/static/js/main.c933b0e2.chunk.js",
-    "main.js.map": "/React_To-do/static/js/main.c933b0e2.chunk.js.map",
-    "runtime-main.js": "/React_To-do/static/js/runtime-main.c24b2ed4.js",
-    "runtime-main.js.map": "/React_To-do/static/js/runtime-main.c24b2ed4.js.map",
-    "static/js/2.293dd312.chunk.js": "/React_To-do/static/js/2.293dd312.chunk.js",
-    "static/js/2.293dd312.chunk.js.map": "/React_To-do/static/js/2.293dd312.chunk.js.map",
-    "static/js/3.9695c94f.chunk.js": "/React_To-do/static/js/3.9695c94f.chunk.js",
-    "static/js/3.9695c94f.chunk.js.map": "/React_To-do/static/js/3.9695c94f.chunk.js.map",
+    "main.css": "/React_To-do/static/css/main.b7cf8011.chunk.css",
+    "main.js": "/React_To-do/static/js/main.0dab11ec.chunk.js",
+    "main.js.map": "/React_To-do/static/js/main.0dab11ec.chunk.js.map",
+    "runtime-main.js": "/React_To-do/static/js/runtime-main.1c92a6b6.js",
+    "runtime-main.js.map": "/React_To-do/static/js/runtime-main.1c92a6b6.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/React_To-do/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.bcbe9443.chunk.js": "/React_To-do/static/js/2.bcbe9443.chunk.js",
+    "static/js/2.bcbe9443.chunk.js.map": "/React_To-do/static/js/2.bcbe9443.chunk.js.map",
+    "static/js/3.02c55434.chunk.js": "/React_To-do/static/js/3.02c55434.chunk.js",
+    "static/js/3.02c55434.chunk.js.map": "/React_To-do/static/js/3.02c55434.chunk.js.map",
     "index.html": "/React_To-do/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/React_To-do/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.293dd312.chunk.js.LICENSE.txt": "/React_To-do/static/js/2.293dd312.chunk.js.LICENSE.txt",
+    "static/css/2.1a02f21c.chunk.css.map": "/React_To-do/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.b7cf8011.chunk.css.map": "/React_To-do/static/css/main.b7cf8011.chunk.css.map",
+    "static/js/2.bcbe9443.chunk.js.LICENSE.txt": "/React_To-do/static/js/2.bcbe9443.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/React_To-do/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c24b2ed4.js",
-    "static/js/2.293dd312.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c933b0e2.chunk.js"
+    "static/js/runtime-main.1c92a6b6.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.bcbe9443.chunk.js",
+    "static/css/main.b7cf8011.chunk.css",
+    "static/js/main.0dab11ec.chunk.js"
   ]
 }
